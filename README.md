@@ -1,72 +1,77 @@
-<h1 align="center">Hi, I'm Muhammad Umer Aslam 👋</h1>
-<h3 align="center">Full Stack Developer | Building Web Apps, SaaS, AI Tools & Scalable Software</h3>
+<h1 align="center">Muhammad Umer Aslam</h1>
+<p align="center">
+  Full Stack Developer building web apps, SaaS products, AI tools, and scalable software
+</p>
 
 <p align="center">
   <a href="https://github.com/Omer-prime">
-    <img src="https://komarev.com/ghpvc/?username=Omer-prime&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Omer-prime&label=Profile%20Views&color=3b82f6&style=flat" alt="profile views" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- Full Stack Developer focused on real-world products
-- Building web apps, SaaS platforms, AI tools, and business systems
-- Interested in scalable architecture, cybersecurity, automation, and product design
-- Strong focus on clean UI, solid backend logic, and practical solutions
+I am a Full Stack Developer focused on building practical, modern, and scalable digital products.  
+I enjoy working on web applications, SaaS platforms, AI-powered tools, and business systems with strong UI, clean architecture, and reliable backend logic.
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- Building real-world software products
+- Focused on clean frontend and strong backend systems
+- Interested in SaaS, AI, automation, cybersecurity, and scalable architecture
+- Comfortable turning product ideas into working platforms
 
 ---
 
-## 🌟 Featured Projects
+## Tech Stack
 
-### 📘 Advistors Gold LMS
-A full-featured LMS platform with admin, teacher, and student flows, built for real institute needs.
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0891b2?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🩺 Medical Companion
-A healthcare-focused application designed to support users with smart medical assistance features.
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-b91c1c?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-14532d?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4c1d95?style=for-the-badge&logo=php&logoColor=white)
 
-### 🛡 AI Dev Guardian
-An open-source local SAST scanner that finds risky code patterns and generates actionable fixes.
-
-### 🎥 Gold Streaming App
-A live streaming platform with admin dashboard, real-time features, and mobile app integration.
+**Database & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1d4ed8?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0f766e?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0369a1?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-c2410c?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🔥 What I’m Working On
+## Selected Work
 
-- LMS and Virtual School systems
+### Advistors Gold LMS
+A modern LMS platform built for real institute workflows with admin, teacher, and student portals.
+
+### Medical Companion
+A healthcare-focused application built to support smart medical guidance and user-friendly workflows.
+
+### AI Dev Guardian
+A local SAST scanner that detects risky code patterns, suggests actionable fixes, and supports secure development workflows.
+
+### Gold Streaming App
+A live streaming platform with real-time engagement features, admin dashboard, wallet flows, and mobile app integration.
+
+---
+
+## Current Focus
+
+- LMS and virtual school platforms
 - SaaS and automation products
-- AI-powered developer and business tools
-- Full-stack client platforms with scalable architecture
+- AI-powered business and developer tools
+- Full-stack systems with scalable architecture
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omer-prime&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
@@ -82,7 +87,7 @@ A live streaming platform with admin dashboard, real-time features, and mobile a
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 - LinkedIn: [Muhammad Umar Aslam](https://www.linkedin.com/in/muhammad-umar-aslam-8705b3285)
 - Instagram: [@omer__prime](https://instagram.com/omer__prime)
@@ -90,5 +95,5 @@ A live streaming platform with admin dashboard, real-time features, and mobile a
 ---
 
 <p align="center">
-  <b>Building useful products, clean systems, and better digital experiences.</b>
+  <b>Building useful products with clean systems and strong user experience.</b>
 </p>
