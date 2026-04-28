@@ -90,7 +90,7 @@ A live streaming platform with real-time engagement features, admin dashboard, w
 ## Connect
 
 - LinkedIn: [Muhammad Umar Aslam](https://www.linkedin.com/in/muhammad-umar-aslam-8705b3285)
-- Instagram: [@omer__prime](https://instagram.com/omer__prime)
+- Instagram: [@omer__prime](https://instagram.com/omer___prime)
 
 ---
 
