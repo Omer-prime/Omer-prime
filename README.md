@@ -198,11 +198,7 @@ React Native and TypeScript mobile app that helps users generate custom class te
 ## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omer-prime&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omer-prime&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omer-prime&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
